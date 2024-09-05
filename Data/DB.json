@@ -1,0 +1,28 @@
+{
+    "posts":
+    [
+        {
+            "id":1,
+            "question":"methods to display data",
+            "options":["print","display","console.log()","All"],
+            "correctoption":"console.log()"
+
+        },
+        {
+            "id":2,
+            "question":"To declare constant type" ,
+            "options":["let","var","constant","const"],
+            "correctoption":"const"
+        }, 
+        {
+            "id":3,
+            "question":"current version of html is" ,
+            "options":["html2","html3","html4","html5"],
+            "correctoption":"html5"
+        }
+    ]
+    
+}
+
+
+    
